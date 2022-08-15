@@ -13,7 +13,7 @@ Right - Otočit pohled na pravo
 
 Left - Otočit pohled na levo
 
-`
+``
 int mapa[64]={
 1, 1, 1, 1, 1, 1, 1, 1,
 
@@ -30,7 +30,7 @@ int mapa[64]={
 1, 0, 0, 0, 0, 0, 0, 1,
 
 1, 1, 1, 1, 1, 1, 1, 1}
-`
+``
 
 0 - Prostor
 
