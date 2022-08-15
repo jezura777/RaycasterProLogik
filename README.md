@@ -9,6 +9,7 @@ Down - Dozadu
 Right - Otočit pohled na pravo
 Left - Otočit pohled na levo
 
+`
 int mapa[64]={
 1, 1, 1, 1, 1, 1, 1, 1,
 1, 0, 4, 0, 0, 0, 0, 1,
@@ -18,6 +19,7 @@ int mapa[64]={
 1, 0, 0, 0, 0, 3, 0, 1,
 1, 0, 0, 0, 0, 0, 0, 1,
 1, 1, 1, 1, 1, 1, 1, 1}
+`
 
 0 - Prostor
 1 - Šedá
@@ -28,4 +30,4 @@ int mapa[64]={
 error:jsi ve stěně - hodně světlá bílá
 error:neplatné číslo v mapě - fialová
 
-Přetvořeno na logik z opengl originální kód ![zde](https://youtu.be/gYRrGTC7GtA)
+Přetvořeno na logik z opengl originální kód [zde](https://youtu.be/gYRrGTC7GtA)
